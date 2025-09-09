@@ -17,10 +17,15 @@ This space highlights my projects, hands-on labs, and technical skills as I prep
 🛠️ Skills & Tools:
 Technical Skills:
 -Network & Web Application Penetration Testing
+
 -Vulnerability Scanning & Assessment
+
 -Scripting & Automation (Python, Bash, PowerShell, Java)
+
 -Incident Detection & Log Analysis
+
 -Security Best Practices & Compliance Awareness
+
 
 Tools & Platforms
 Nmap | Wireshark | Burp Suite | Metasploit | SQLmap
