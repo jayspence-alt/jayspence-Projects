@@ -36,10 +36,10 @@ Git | Docker | Cloud Basics (AWS & Azure)
 
 **📂 Featured Projects**
 
-- Coming Soon!
+- Secure Cloud Infrastructure Setup - Azure
 
 **📌 Explore more in my repositories**
-- Coming Soon!
+- Coming soon!
 
 **📈 Continuous Learning**
 
