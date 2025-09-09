@@ -44,7 +44,7 @@ Git | Docker | Cloud Basics (AWS & Azure)
 
 **📈 Continuous Learning**
 
-🎓 TryHackMe: <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1191557" style='border:none;'></iframe>
+🎓 TryHackMe: (https://tryhackme.com/p/jayspence)
 
 🎓 Hack The Box: [Your Profile Link]
 
