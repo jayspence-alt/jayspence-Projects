@@ -58,6 +58,4 @@ Scripting for automation in security testing
 
 📧 **Email**: spencer.julian2@gmail.com
 
-**✅ Recruiter Note**: I am actively seeking opportunities to apply my skills in cybersecurity analysis, penetration testing, and/or vulnerability management. I'm open to new roles involving the application of Cyber Securi
-
-Would you like me to also polish a matching LinkedIn "About Me" section so your GitHub and LinkedIn tell a consistent recruiter-friendly story?
+**✅ Recruiter Note**: I am actively seeking opportunities to apply my skills in cybersecurity analysis, penetration testing, and/or vulnerability management. I'm open to new roles involving the application of my Cyber Security aptitude and skills.
