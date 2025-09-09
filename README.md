@@ -16,11 +16,11 @@ This space highlights my projects, hands-on labs, and technical skills as I prep
 
 🛠️ Skills & Tools:
 Technical Skills:
-Network & Web Application Penetration Testing
-Vulnerability Scanning & Assessment
-Scripting & Automation (Python, Bash, PowerShell, Java)
-Incident Detection & Log Analysis
-Security Best Practices & Compliance Awareness
+-Network & Web Application Penetration Testing
+-Vulnerability Scanning & Assessment
+-Scripting & Automation (Python, Bash, PowerShell, Java)
+-Incident Detection & Log Analysis
+-Security Best Practices & Compliance Awareness
 
 Tools & Platforms
 Nmap | Wireshark | Burp Suite | Metasploit | SQLmap
@@ -29,10 +29,7 @@ Kali Linux | Parrot OS | Windows Server
 Git | Docker | Cloud Basics (AWS & Azure)
 
 📂 Featured Projects
-Vulnerability Assessment Lab → Automated network scans & reporting
-Web Application Pentest → Testing OWASP Top 10 vulnerabilities on DVWA/Juice Shop
-Python Security Tools → Custom scripts for enumeration & password brute force
-Reverse Shell Playground → Research on payloads & persistence
+- Coming Soon!
 
 📌 Explore more in my repositories
 .
