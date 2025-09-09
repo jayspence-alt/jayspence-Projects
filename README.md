@@ -37,6 +37,7 @@ Git | Docker | Cloud Basics (AWS & Azure)
 **📂 Featured Projects**
 
 - Secure Cloud Infrastructure Setup - Azure
+- Sandbox for Malware Analysis Setup - Azure
 
 **📌 Explore more in my repositories**
 - Coming soon!
