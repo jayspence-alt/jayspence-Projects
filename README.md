@@ -5,9 +5,13 @@ Welcome to my GitHub! I’m Julian Spencer II, a current Cybersecurity Analyst &
 This space highlights my projects, hands-on labs, and technical skills as I prepare for a professional role in penetration testing / red teaming.
 
 📌 Professional Summary:
+
 🎯 Career Goal: Penetration Tester / Red Team Specialist
+
 🛡️ Current Focus: Completing my Bachelor's at WGU / Hands-On Labs
+
 📜 Certifications in Progress: CompTIA Pentest+, CCSP, OSCP (future)
+
 💡 Strengths: Problem-solving, attention to detail, scripting automation, and technical report writing
 
 🛠️ Skills & Tools:
