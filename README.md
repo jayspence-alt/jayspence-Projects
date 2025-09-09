@@ -36,8 +36,10 @@ Git | Docker | Cloud Basics (AWS & Azure)
 
 **📂 Featured Projects**
 
+- On-Prem Enterprise Active Directory setup w/Virtual Box - Completed
 - Secure Cloud Infrastructure Setup - Azure
 - Sandbox for Malware Analysis Setup - Azure
+- Migration from On-Prem to Cloud - Azure
 
 **📌 Explore more in my repositories**
 - Coming soon!
