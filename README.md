@@ -36,7 +36,7 @@ Git | Docker | Cloud Basics (AWS & Azure)
 
 **📂 Featured Projects**
 
-- On-Prem Enterprise Active Directory setup w/Virtual Box - Completed
+- [https://github.com/jayspence-alt/On-Prem-Enterprise-Active-Directory-Home-Lab-Setup/tree/main](url)
 - Secure Cloud Infrastructure Setup - Azure
 - Sandbox for Malware Analysis Setup - Azure
 - Migration from On-Prem to Cloud - Azure
