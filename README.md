@@ -52,11 +52,12 @@ Exploit development basics
 Red team tactics & adversary simulation
 Scripting for automation in security testing
 
-🤝 Let’s Connect
-💼 LinkedIn
-📧 [Your Email Address]
-🌐 [Portfolio / Blog]
+**🤝 Let’s Connect:**
 
-✅ Recruiter Note: I am actively seeking opportunities to apply my skills in cybersecurity analysis, penetration testing, or vulnerability management. Open to internships, junior roles, or project-based work to grow in offensive security.
+💼 **LinkedIn**: (https://www.linkedin.com/in/julianspencer2/)
+
+📧 **Email**: spencer.julian2@gmail.com
+
+**✅ Recruiter Note**: I am actively seeking opportunities to apply my skills in cybersecurity analysis, penetration testing, and/or vulnerability management. I'm open to new roles involving the application of Cyber Securi
 
 Would you like me to also polish a matching LinkedIn "About Me" section so your GitHub and LinkedIn tell a consistent recruiter-friendly story?
