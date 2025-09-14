@@ -37,7 +37,7 @@ Git | Docker | Cloud Basics (AWS & Azure)
 **📂 Featured Projects**
 
 - [On-Prem Enterprise Active-Directory Home Lab Setup](https://github.com/jayspence-alt/On-Prem-Enterprise-Active-Directory-Home-Lab-Setup)
-- Secure Cloud Infrastructure Setup - Azure
+- [PfSense Installation](https://github.com/jayspence-alt/PfSense-Setup)
 - Sandbox for Malware Analysis Setup - Azure
 - Migration from On-Prem to Cloud - Azure
 
